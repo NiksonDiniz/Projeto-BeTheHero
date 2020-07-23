@@ -58,4 +58,4 @@ Este projeto foi desenvolvido durante as aulas na semana OmniStack 11 com a Rock
 
 ## 🖼️ Resultado
 
-![]()
+![](https://github.com/NiksonDiniz/Projeto-BeTheHero/blob/master/imgProjetoBTH/cap%20cadastro%20BeTheHero.png) ![](https://github.com/NiksonDiniz/Projeto-BeTheHero/blob/master/imgProjetoBTH/cap%20cadastro%20de%20casos%20BeTheHero.png) ![](https://github.com/NiksonDiniz/Projeto-BeTheHero/blob/master/imgProjetoBTH/cap%20logon%20BeTheHero.png) ![](https://github.com/NiksonDiniz/Projeto-BeTheHero/blob/master/imgProjetoBTH/cap%20registro%20de%20casos%20BeTheHero.png) ![](https://github.com/NiksonDiniz/Projeto-BeTheHero/blob/master/imgProjetoBTH/mobile01.png) ![](https://github.com/NiksonDiniz/Projeto-BeTheHero/blob/master/imgProjetoBTH/mobile02.png) ![](https://github.com/NiksonDiniz/Projeto-BeTheHero/blob/master/imgProjetoBTH/mobile03.png)
